@@ -1,0 +1,1 @@
+insert into Noticia (titulo, autor, fecha)values ("Java 8","nelson ortiz","2018-01-01")
